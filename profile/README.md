@@ -32,10 +32,12 @@ Researching, designing, and implementing legal research platforms with intuitive
 
 | Product | Description | Status |
 | --- | --- | --- |
+| **[Klaussa](https://klaussa.com)** | AI legal platform for Indonesia: legal research, regulation analysis, and legal document review, with answers cited to official Indonesian legal sources. Built for law students and legal professionals. | Available |
+| **FiskalLink** | Harmonizes fiscal reporting between national and local government. Developed with the Ministry of Finance (Kementerian Keuangan). Demonstrated at *AI for the Public Sector 2026* with the British Embassy Jakarta and Amana Solutions. | Proof of concept |
 | **Legal Generative-AI Search** | AI-powered legal research over comprehensive legal databases. | Private beta |
 | **LexID Question & Answer** | AI companion for navigating Indonesian regulations, with answers drawn from a knowledge graph of legal documents. | Experimental preview |
 
-Interested in trying them? [Get in touch](https://lexin.cs.ui.ac.id/contact-us/index.html).
+Interested in FiskalLink or our beta products? [Get in touch](https://lexin.cs.ui.ac.id/contact-us/index.html).
 
 ## Training & Consulting
 
