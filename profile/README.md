@@ -24,35 +24,33 @@ We build solutions for Indonesia's legal ecosystem, together with institutions t
 
 ## Our research pillars
 
-Each pillar is a real legal problem, studied together with a partner institution.
-
+Each pillar is an applied research area where legal problems are real, studied together with partner institutions.
 
 | Pillar | The question we ask |
 |---|---|
 | **Digital Notary** | How can digital documents and records stay legally reliable, and be proven authentic when challenged? *(Legal assurance and verifiable digital evidence)* |
 | **Industrial Relations Disputes** | How are workplace disputes resolved, who can actually reach the process, and what do people get out of it? *(Procedure, access, and service outcomes)* |
-| **AI Regulatory Framework** | How should AI be governed? How do we assess its risks, supervise its use, and keep someone accountable? *(Risk assessment, oversight, and accountability)* |
-| **Constitutional Court Rulings** | What does the Constitutional Court decide and why, what does a ruling change in law, and how do lawmakers follow up? *(Reasoning, legal effects, and legislative follow-ups)* |
-| **Your pillar** | We are open to new research partners. See *Work with us* below. |
+| **AI Governance and Regulation** | How should AI be governed? How do we assess its risks, supervise its use, and keep someone accountable? *(Risk assessment, oversight, and accountability)* |
+| **Court Rulings and Judgement** | How do courts reason and decide, what does a ruling change in law, and how do lawmakers follow up? We start with the Constitutional Court. *(Reasoning, legal effects, and legislative follow-ups)* |
+| **Your area** | We are open to new research areas and new partners. See *Work with us* below. |
 
 <br>
 
 ## Legal AI Foundations
 
-All pillars stand on the same foundation: the AI and computer science work we own and keep growing, whichever partners we work with.
+All pillars stand on the same foundation: the basic research in AI and computer science that we own and keep growing, whichever partners we work with.
 
 | Foundation | What it covers |
 |---|---|
-| **Legal knowledge extraction** | Getting knowledge out of large bodies of legal text: legal search and retrieval, knowledge graphs for legal documents, and legal data management. Finding the right article, regulation, or ruling, and grounding answers in it. |
-| **Artificial intelligence in legal** | AI and machine learning models that analyze legal documents: question answering, legal textual entailment, legal judgment prediction, text classification, and summarization. Methods that reach legal conclusions in a way that can be checked. |
-| **Trust and evaluation** | Benchmarks, human-checked (annotated) legal data, and measures of how uncertain a model is, so we know how good it is and when not to rely on it. |
-| **Legal technology platforms** | Designing legal research platforms for lawyers, paralegals, students, and the public, including generative search experiences and AI assistant tools. |
+| **Retrieval and grounding** | RAG, embedding, and retrieval: legal search, knowledge graphs for legal documents, and legal data management. Finding the right article, regulation, or ruling, and grounding answers in it. |
+| **Reasoning** | Symbolic approaches, legal entailment, and legal judgment prediction, along with question answering, text classification, and summarization. Methods that reach legal conclusions in a way that can be checked. |
+| **Trust and evaluation** | Benchmarks, annotation (human-checked legal data), and uncertainty quantification, so we know how good a model is and when not to rely on it. |
 
 <br>
 
 ## Products
 
-Research reaches people through the tools we build.
+Research reaches people through the products we build, including legal research platforms for lawyers, paralegals, students, and the public.
 
 | Product | Description | Status |
 |---|---|---|
@@ -62,7 +60,7 @@ Research reaches people through the tools we build.
 | **LexID Question & Answer** | AI companion for navigating Indonesian regulations. | Experimental preview |
 
 > [!NOTE]
-> Our research and tools support legal work. They are not legal advice. For binding legal opinions, consult a licensed advocate.
+> Our research and products support legal work. They are not legal advice. For binding legal opinions, consult a licensed advocate.
 
 <br>
 
@@ -79,7 +77,7 @@ Directorate General of Taxes, Directorate General of Intellectual Property, Mini
 ## Work with us
 
 - **Research partners.** Courts, regulators, professional bodies, universities, and civil society groups with a legal problem worth studying together.
-- **Delivery partners.** Funders, companies, and organizations that can help us bring research tools to more people.
+- **Delivery partners.** Funders, companies, and organizations that can help us bring our products to more people.
 - **Researchers and students.** Interested in legal informatics? We would like to hear from you.
 
 **Contact**
