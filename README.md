@@ -1,67 +1,87 @@
-# Lexin — Center for Legal Informatics, Universitas Indonesia
+<div align="center">
 
-**Advancing the frontiers of legal technology.**
+# Lexin
 
-Lexin is the Center for Legal Informatics at the Faculty of Computer Science, Universitas Indonesia. We advance legal technology and informatics research and build solutions for Indonesia's legal landscape, combining AI and NLP with deep legal and product expertise.
+### Center for Legal Informatics, Universitas Indonesia
 
-🌐 **Website:** [lexin.cs.ui.ac.id](https://lexin.cs.ui.ac.id)
+*Advancing the frontiers of legal technology.*
 
----
+[lexin.cs.ui.ac.id](https://lexin.cs.ui.ac.id)
 
-## Research
+</div>
 
-### Legal Knowledge Extraction
-Extracting useful knowledge from large volumes of legal text and managing it efficiently.
-- Legal search algorithms
-- Knowledge graphs for legal documents
-- Legal data management
+<br>
 
-### Artificial Intelligence in Legal
-Building AI and machine learning models to analyze legal documents, statutes, and court rulings.
-- Knowledge question answering
-- Legal textual entailment
-- Legal text classification and summarization
+## Who we are
 
-### Legal Technology Platforms
-Researching, designing, and implementing legal research platforms with intuitive user experience for lawyers, paralegals, students, and the general public.
-- Legal search generative experience
-- Paralegal AI assistant
-- Legal document search
+Lexin is the Center for Legal Informatics at the Faculty of Computer Science, Universitas Indonesia. We use **computer science and AI to help people work with Indonesian law**: finding the right regulation, checking how a legal conclusion was reached, and knowing when to trust an AI's answer.
+
+We build solutions for Indonesia's legal ecosystem, together with institutions that face real legal problems every day.
+
+<br>
+
+## Our research pillars
+
+Each pillar is a real legal problem, studied together with a partner institution.
+
+![Lexin research roadmap: research partner pillars standing on Legal AI Foundations, holding up our products, with delivery partners above](https://raw.githubusercontent.com/lab-lexin/.github/main/profile/roadmap-overview.webp)
+
+| Pillar | The question we ask |
+|---|---|
+| **Digital Notary** | How can digital documents and records stay legally reliable, and be proven authentic when challenged? *(Legal assurance and verifiable digital evidence)* |
+| **Industrial Relations Disputes** | How are workplace disputes resolved, who can actually reach the process, and what do people get out of it? *(Procedure, access, and service outcomes)* |
+| **AI Regulatory Framework** | How should AI be governed? How do we assess its risks, supervise its use, and keep someone accountable? *(Risk assessment, oversight, and accountability)* |
+| **Constitutional Court Rulings** | What does the Constitutional Court decide and why, what does a ruling change in law, and how do lawmakers follow up? *(Reasoning, legal effects, and legislative follow-ups)* |
+| **Your pillar** | We are open to new research partners. See *Work with us* below. |
+
+<br>
+
+## Legal AI Foundations
+
+All pillars stand on the same foundation: the AI and computer science work we own and keep growing, whichever partners we work with.
+
+| Foundation | What it covers |
+|---|---|
+| **Legal knowledge extraction** | Getting knowledge out of large bodies of legal text: legal search and retrieval, knowledge graphs for legal documents, and legal data management. Finding the right article, regulation, or ruling, and grounding answers in it. |
+| **Artificial intelligence in legal** | AI and machine learning models that analyze legal documents: question answering, legal textual entailment, legal judgment prediction, text classification, and summarization. Methods that reach legal conclusions in a way that can be checked. |
+| **Trust and evaluation** | Benchmarks, human-checked (annotated) legal data, and measures of how uncertain a model is, so we know how good it is and when not to rely on it. |
+| **Legal technology platforms** | Designing legal research platforms for lawyers, paralegals, students, and the public, including generative search experiences and AI assistant tools. |
+
+<br>
 
 ## Products
 
+Research reaches people through the tools we build.
+
 | Product | Description | Status |
-| --- | --- | --- |
-| **Legal Generative-AI Search** | AI-powered legal research over comprehensive legal databases. | Private beta |
-| **LexID Question & Answer** | AI companion for navigating Indonesian regulations, with answers drawn from a knowledge graph of legal documents. | Experimental preview |
+|---|---|---|
+| **[Klaussa](https://www.klaussa.com)** | AI legal platform for Indonesia: legal research, regulation analysis, and legal document review. | Available |
+| **FiskalLink** | Harmonizes fiscal reporting between government levels. | Proof of concept |
+| **Legal Generative-AI Search** | AI-powered legal research capabilities. | Private beta |
+| **LexID Question & Answer** | AI companion for navigating Indonesian regulations. | Experimental preview |
 
-Interested in trying them? [Get in touch](https://lexin.cs.ui.ac.id/contact-us/index.html).
+> [!NOTE]
+> Our research and tools support legal work. They are not legal advice. For binding legal opinions, consult a licensed advocate.
 
-## Training & Consulting
+<br>
 
-We deliver tailored training programs and consulting services on legal informatics, including:
-- In-house training on AI and legal textual entailment for the Directorate General of Taxes (Direktorat Jenderal Pajak), Ministry of Finance
-- FGD on the patentability of blockchain and cryptocurrency technology with the Directorate General of Intellectual Property (DJKI), Ministry of Law and Human Rights
+## Training and consulting
 
-## Selected Publications
+We deliver programs on legal informatics and AI, including work with the Directorate General of Taxes and the Directorate General of Intellectual Property.
 
-- *LexID: The Metadata and Semantic Knowledge Graph Construction of Indonesian Legal Document*
-- *Extreme Multilabel Text Classification on Indonesian Tax Court Ruling using Single Channel CNN and IndoBERT Embedding*
+## Institutions we have worked with
 
-More on the [Publication & News](https://lexin.cs.ui.ac.id/publication-news/index.html) page.
+Directorate General of Taxes, Directorate General of Intellectual Property, Ministry of Finance of Indonesia, and Lancaster University.
 
-## Institutions We've Worked With
+<br>
 
-Directorate General of Taxes (DJP), Directorate General of Intellectual Property (DJKI), Ministry of Finance of Indonesia, and Lancaster University.
+## Work with us
 
-## Learn More
+- **Research partners.** Courts, regulators, professional bodies, universities, and civil society groups with a legal problem worth studying together.
+- **Delivery partners.** Funders, companies, and organizations that can help us bring research tools to more people.
+- **Researchers and students.** Interested in legal informatics? We would like to hear from you.
 
-- [Research](https://lexin.cs.ui.ac.id/research/index.html)
-- [Products](https://lexin.cs.ui.ac.id/products/index.html)
-- [People](https://lexin.cs.ui.ac.id/people/index.html)
-- [Publication & News](https://lexin.cs.ui.ac.id/publication-news/index.html)
-- [Contact Us](https://lexin.cs.ui.ac.id/contact-us/index.html)
+**Contact**
 
----
-
-© 2024 Lexin, Faculty of Computer Science, Universitas Indonesia.
+- Lexin: [hadiputra@cs.ui.ac.id](mailto:hadiputra@cs.ui.ac.id)
+- Klaussa: [bryan@klaussa.com](mailto:bryan@klaussa.com)
