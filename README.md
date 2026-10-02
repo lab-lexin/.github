@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Lexin-research-philosophy" src="https://github.com/user-attachments/assets/e2279a3a-b223-44e1-bfda-78d20398dc16" />
 <div align="center">
 
 # Lexin
@@ -24,7 +25,8 @@ We build solutions for Indonesia's legal ecosystem, together with institutions t
 
 Each pillar is a real legal problem, studied together with a partner institution.
 
-![Lexin research roadmap: research partner pillars standing on Legal AI Foundations, holding up our products, with delivery partners above](https://raw.githubusercontent.com/lab-lexin/.github/main/profile/roadmap-overview.webp)
+<img width="1672" height="941" alt="lexin-positioning" src="https://github.com/user-attachments/assets/b79be666-7030-4f8b-9123-6bd64b82781c" />
+
 
 | Pillar | The question we ask |
 |---|---|
