@@ -20,12 +20,11 @@ Lexin is the Center for Legal Informatics at the Faculty of Computer Science, Un
 We build solutions for Indonesia's legal ecosystem, together with institutions that face real legal problems every day.
 
 <br>
+<img width="1672" height="941" alt="lexin-positioning" src="https://github.com/user-attachments/assets/b79be666-7030-4f8b-9123-6bd64b82781c" />
 
 ## Our research pillars
 
 Each pillar is a real legal problem, studied together with a partner institution.
-
-<img width="1672" height="941" alt="lexin-positioning" src="https://github.com/user-attachments/assets/b79be666-7030-4f8b-9123-6bd64b82781c" />
 
 
 | Pillar | The question we ask |
